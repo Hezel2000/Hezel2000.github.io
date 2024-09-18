@@ -1,5 +1,5 @@
 ---
-title: "Dominik Hezel"
+title: "Dominik "
 about:
   id: template-area
   template: jolla
