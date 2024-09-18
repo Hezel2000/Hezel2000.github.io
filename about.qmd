@@ -1,5 +1,5 @@
 ---
-title: "Thomas Rose"
+title: "Dominik Hezel"
 about:
   id: template-area
   template: jolla
