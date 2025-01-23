@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Dominik Hezel",
+    "section": "",
+    "text": "Update the YAML header. you can check out different layouts of the pre-formatted part at https://quarto.org/docs/websites/website-about.html#templates\nUpdate the legal notice\nWrite a short introduction about you\ndelete this section\n\n\n  \n \nHere goes the information about you.\n \n  \n   \n  \n    \n     Github"
+  },
+  {
+    "objectID": "about.html#tasks-for-this-page",
+    "href": "about.html#tasks-for-this-page",
+    "title": "Dominik Hezel",
+    "section": "",
+    "text": "Update the YAML header. you can check out different layouts of the pre-formatted part at https://quarto.org/docs/websites/website-about.html#templates\nUpdate the legal notice\nWrite a short introduction about you\ndelete this section\n\n\n  \n \nHere goes the information about you.\n \n  \n   \n  \n    \n     Github"
+  },
+  {
+    "objectID": "about.html#legal-notice",
+    "href": "about.html#legal-notice",
+    "title": "Dominik Hezel",
+    "section": "Legal Notice",
+    "text": "Legal Notice\nProvider according to § 5 TMG is:\nDominik Hezel\nBerliner Str. 52\n61449 Steinbach (Ts.) Germany\nPhone +49 1522 3176524\nE-Mail: dominik.hezel xx em.uni-frankfurt.de"
+  },
+  {
+    "objectID": "about.html#privacy",
+    "href": "about.html#privacy",
+    "title": "Dominik Hezel",
+    "section": "Privacy",
+    "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "This is the Home page of your web site.",
+    "section": "",
+    "text": "This is the Home page of your web site.\nDon’t forget to update the YAML configuration of the webpage in the _quarto.yml and on this page! You can also try out different themes in the configuration file. The available themes are listed at https://quarto.org/docs/output-formats/html-themes.html#overview\nTo learn more about quarto: https://quarto.org\nInclude here anything that might be of interest, such as projects, publications, …"
+  }
+]
