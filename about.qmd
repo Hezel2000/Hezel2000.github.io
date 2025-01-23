@@ -1,0 +1,40 @@
+---
+title: "Dominik Hezel"
+about:
+  id: template-area
+  template: jolla
+  image: profile.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Hezel2000
+---
+
+## Tasks for this page
+
+* Update the YAML header. you can check out different layouts of the pre-formatted part at <https://quarto.org/docs/websites/website-about.html#templates>
+* Update the legal notice
+* Write a short introduction about you
+* delete this section
+
+
+:::{#template-area}
+
+Here goes the information about you. 
+
+:::
+
+## Legal Notice
+
+Provider according to § 5 TMG is:  
+Dominik Hezel  
+Berliner Str. 52  
+61449 Steinbach (Ts.)
+Germany  
+
+Phone +49 1522 3176524  
+E-Mail: dominik.hezel xx em.uni-frankfurt.de
+
+## Privacy
+
+This webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by [GitHub Inc.](https://github.com/) using [GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages). The privacy statement of Github is available [here](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement){target="_blank"}. 
