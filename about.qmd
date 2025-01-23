@@ -3,20 +3,12 @@ title: "Dominik Hezel"
 about:
   id: template-area
   template: jolla
-  image: profile.png
+  image: profile_image.png
   links:
     - icon: github
       text: Github
       href: https://github.com/Hezel2000
 ---
-
-## Tasks for this page
-
-* Update the YAML header. you can check out different layouts of the pre-formatted part at <https://quarto.org/docs/websites/website-about.html#templates>
-* Update the legal notice
-* Write a short introduction about you
-* delete this section
-
 
 :::{#template-area}
 

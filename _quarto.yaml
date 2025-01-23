@@ -3,13 +3,13 @@ project:
     
 website:
   site-url: https://Hezel2000.github.io/
-  repo-url: https://github.com/archaeothommy/archaeothommy.github.io/
+  # repo-url: https://github.com/archaeothommy/archaeothommy.github.io/
   favicon: favicon.png
   title: "Dominik Hezel"
   navbar:
     left:
-      - text: "My research"
-        href: index.qmd
+      # - text: "My research"
+      #   href: index.qmd
       - text: "About me"
         href: about.qmd
 
