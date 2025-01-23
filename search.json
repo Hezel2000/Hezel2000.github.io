@@ -23,8 +23,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "This is the Home page of your web site.",
+    "title": "Welcome",
     "section": "",
-    "text": "This is the Home page of your web site.\nDon’t forget to update the YAML configuration of the webpage in the _quarto.yml and on this page! You can also try out different themes in the configuration file. The available themes are listed at https://quarto.org/docs/output-formats/html-themes.html#overview\nTo learn more about quarto: https://quarto.org\nInclude here anything that might be of interest, such as projects, publications, …"
+    "text": "Welcome\nFor the moment, there is only some legal ‘about me’ on the other site."
   }
 ]
